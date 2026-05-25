@@ -6,7 +6,7 @@ This repository contains a hybrid intrusion detection pipeline designed to run i
 
 The pipeline is organized as an end-to-end experimental workflow for intrusion detection and traffic classification tasks. It includes dataset loading, data cleaning, scaling, class balancing with SMOTE, feature importance analysis, model training, evaluation, and result persistence.
 
-The notebook is built to work with datasets such as KDD-CUP99 and CICMalMem2022. It also supports both binary and multiclass classification, depending on the dataset and task configuration.
+The notebook is built to work with datasets such as KDD-CUP99, CICMalMem2022 and CICIDS2017. It also supports both binary and multiclass classification, depending on the dataset and task configuration.
 
 ## Methodology
 
