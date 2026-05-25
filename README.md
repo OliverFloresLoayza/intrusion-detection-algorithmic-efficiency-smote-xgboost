@@ -39,7 +39,6 @@ This layout improves reproducibility and makes it easier to compare experiments 
 ## Google Drive Links
 
 - [Datasets folder](https://drive.google.com/drive/folders/12ehEfgjbDM9Kzf6NX8MsiWseCoRfu-lJ?usp=sharing)
-- [Run results folder](https://drive.google.com/drive/folders/1Be-qf91Dyn_gg3t5ia41IkXBWQ19zBOL?usp=sharing)
 
 ## Usage
 
