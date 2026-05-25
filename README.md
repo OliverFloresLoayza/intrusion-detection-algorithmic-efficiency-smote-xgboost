@@ -34,7 +34,7 @@ The pipeline also uses configurable paths for the dataset root, run directory, f
 
 The project organizes results into separate directories for each experiment run. At a high level, the structure distinguishes between the main output folder, the dataset folder, and run-specific folders for figures, reports, and checkpoints.
 
-This layout improves reproducibility and makes it easier to compare experiments across datasets, task modes, and model selections. It also helps keep intermediate outputs and final results clearly separated.[1]
+This layout improves reproducibility and makes it easier to compare experiments across datasets, task modes, and model selections. It also helps keep intermediate outputs and final results clearly separated.
 
 ## Google Drive Links
 
